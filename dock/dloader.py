@@ -28,7 +28,10 @@ class DLoader:
 
             for name, obj in inspect.getmembers(module, inspect.isclass):
                 if issubclass(obj, QFrame) and obj.__module__ == module.__name__:
-                    return obj
+                    with open(f"/home/{getuser()}/tars/docks/{docks_[0]}.css", "r") as style_file:
+                        style = style_file.read()
+                        style_file.close()
+                    return obj, style
                 else:
                     print("Cant find")
 
