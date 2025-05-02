@@ -12,6 +12,7 @@ class Desktop(QMainWindow):
         super(Desktop, self).__init__()
 
         self.setObjectName("desktop")
+        self.setAutoFillBackground(True)
 
         # set window properties
         self.setWindowFlag(Qt.WindowType.FramelessWindowHint)
@@ -58,6 +59,7 @@ class Desktop(QMainWindow):
         instance.setStyleSheet(
             self.theme_engine.modify_style(style)
         )
+        self.setProperty("borderColor", "none")
         
     
 app = QApplication()
