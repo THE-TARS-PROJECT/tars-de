@@ -1,0 +1,61 @@
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Passwords and Keys
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: GNOME System Monitor
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Characters
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Calculator
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Contacts
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Clocks
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Software Updater
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Brave Web Browser
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: LibreOffice
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Printers
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: LibreOffice Calc
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Text Editor
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Zorin Connect
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Proton VPN
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Help
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: NVIDIA X Server Settings
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Disks
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Backups
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Document Scanner
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: IBus Preferences
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Photos
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Evolution
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Remmina
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Parental Controls
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Cheese
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Videos
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Calendar
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Upgrade Zorin OS
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Files
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: System Monitor
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Archive Manager
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Software
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Tour
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Startup Applications
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Image Viewer
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Fonts
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Weather
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Visual Studio Code
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Brasero
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Htop
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Rhythmbox
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Document Viewer
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Input Method
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: LibreOffice Impress
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Firewall Configuration
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Terminal
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Windows App Support
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Language Support
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Power Statistics
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Software & Updates
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Logs
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: LibreOffice Draw
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Settings
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: TeXInfo
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Main Menu
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Disk Usage Analyzer
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Zorin Appearance
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: LibreOffice Writer
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Advanced Network Configuration
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Vim
+App name supplied: {'name': 'Passwords and Keys', 'icon': 'org.gnome.seahorse.Application', 'exec': 'seahorse'}, App name found: Sound Recorder

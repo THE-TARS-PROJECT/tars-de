@@ -1,4 +1,5 @@
 from PySide6.QtCore import Qt
+from app_launcher import Launcher
 from vortexui.theme_engine import ThemeEngine
 from PySide6.QtWidgets import (
     QMainWindow, QApplication, QWidget, QVBoxLayout, QStackedWidget
@@ -38,13 +39,17 @@ class Desktop(QMainWindow):
 
         self.mainLayout.addLayout(self.content_layout)
 
+        # Define application launcher
+        self.launcher = Launcher()
+        
+
         """Load dock"""
         self.dloader = dloader.DLoader()
         cls, style = self.dloader.load_default()
-        instance = cls()
+        instance = cls(self.launcher)
         
-
         self.mainLayout.addWidget(instance)
+
 
         self.pages = QStackedWidget()
         self.mainLayout.addWidget(self.pages)
@@ -60,6 +65,7 @@ class Desktop(QMainWindow):
             self.theme_engine.modify_style(style)
         )
         self.setProperty("borderColor", "none")
+        self.setProperty("isDesktop", "true")
         
     
 app = QApplication()
